@@ -1,0 +1,6 @@
+﻿  neuron.c
+C:\Users\slava\source\repos\bot\bot\neuron.c(52,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\neuron.c(55,52): warning C4133: =: несовместимые типы - из "int **" в "double **"
+C:\Users\slava\source\repos\bot\bot\neuron.c(56,52): warning C4133: =: несовместимые типы - из "int **" в "double **"
+C:\Users\slava\source\repos\bot\bot\neuron.c(79): warning C4716: initNeuron: должна возвращать значение
+  bot.vcxproj -> C:\Users\slava\source\repos\bot\Debug\bot.exe

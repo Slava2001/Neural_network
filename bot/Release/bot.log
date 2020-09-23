@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\slava\source\repos\bot\bot\main.c(48,43): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(48,70): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(48,97): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(48,124): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(50,41): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(50,66): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(50,91): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\slava\source\repos\bot\bot\main.c(50,116): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  2 of 12 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  bot.vcxproj -> C:\Users\slava\source\repos\bot\Release\bot.exe
