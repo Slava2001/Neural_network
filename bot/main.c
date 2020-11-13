@@ -66,10 +66,7 @@ int main()
 	HDC hDC = GetDC(GetConsoleWindow());
 	HPEN Pen = CreatePen(PS_SOLID, 2, RGB(255, 255, 255));
 	SelectObject(hDC, Pen);
-	MoveToEx(hDC, 0, 85, NULL);
-	LineTo(hDC, 200, 85);
-	MoveToEx(hDC, 100, 0, NULL);
-	LineTo(hDC, 100, 170);
+	
 	printf("\t\terr:  ");
 	while (1)
 	{
