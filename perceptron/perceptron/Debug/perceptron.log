@@ -1,0 +1,8 @@
+﻿  main.c
+C:\MyProjects\VisualStudio\perceptron\perceptron\main.c(38,7): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\MyProjects\VisualStudio\perceptron\perceptron\main.c(38,12): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\MyProjects\VisualStudio\perceptron\perceptron\main.c(166,44): warning C4305: +=: усечение из "double" в "float"
+C:\MyProjects\VisualStudio\perceptron\perceptron\main.c(168,40): warning C4305: +=: усечение из "double" в "float"
+C:\MyProjects\VisualStudio\perceptron\perceptron\main.c(171,50): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\MyProjects\VisualStudio\perceptron\perceptron\main.c(173,37): warning C4244: функция: преобразование "double" в "GLfloat", возможна потеря данных
+  perceptron.vcxproj -> C:\MyProjects\VisualStudio\perceptron\Debug\perceptron.exe
